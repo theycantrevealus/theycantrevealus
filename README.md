@@ -36,7 +36,7 @@ Reading Book
 📈 **GitHub Information:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theycantrevealus"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theycantrevealus&hide=javascript,css,scss,html"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theycantrevealus&hide=css,scss,html"/>
 </p>
 
 
