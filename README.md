@@ -9,7 +9,7 @@ I am a software engineer, hospital system consultant.
 
 Programming is my life. I love detail and simple thing, integrity and synergy work as team, also coffee. A day without coffee is a disaster for me.
 
-<img align="right" alt="GIF" src="https://github.com/theycantrevealus/theycantrevealus/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/theycantrevealus/theycantrevealus/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Get to know me deeper:**
