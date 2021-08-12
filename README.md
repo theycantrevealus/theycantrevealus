@@ -15,7 +15,7 @@ Programming is my life. I love detail and simple thing, integrity and synergy wo
 **Get to know me deeper:**
 
 - 🕶 Still developing something **special**;
-- 💻 I’m currently learning Microservice [leetcode](https://leetcode.com/GKassym);
+- 💻 I’m currently learning Microservice using [NestJS](https://nestjs.com/);
 - ⌚️ Active working on random hours. You know, I will awake if the task is not done yet;
 - 📚 Very very and very exciting to books (hard and soft of course);
 - 💬 Discuss thing **rock** make me really exciting too. Also I'm a funny guy, love to joke;
