@@ -1,4 +1,4 @@
-<img alt="GIF" src="http://45.127.134.54/untitled_design.jpg" width="100%" height="318" />
+<img src="http://45.127.134.54/44671357-modified.png" alt="cat" align="left" width="200" />
 
 ### Hello folks, I'm <a href="https://twitter.com/takashitanaka_" target="_blank">Hendry Tanaka</a> <img src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="25px" />
 
