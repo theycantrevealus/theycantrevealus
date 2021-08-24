@@ -1,15 +1,16 @@
-<img src="http://45.127.134.54/44671357-modified.png" alt="cat" align="left" width="200" />
+<img src="https://user-images.githubusercontent.com/44671357/130580747-4d88e07b-216f-4762-a403-21dc5a54ca4b.png" alt="cat" align="left" width="230" />
 
 ### Hello folks, I'm <a href="https://twitter.com/takashitanaka_" target="_blank">Hendry Tanaka</a> <img src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="25px" />
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pondokcoder.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/takashitanaka_)
+![](https://visitor-badge.glitch.me/badge?page_id=theycantrevealus.theycantrevealus)
+### Greeting typers! &nbsp; 
 
-### Greeting typers! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=theycantrevealus.theycantrevealus)
-
-I am a software engineer, hospital system consultant.
-
-Programming is my life. I love detail and simple thing, integrity and synergy work as team, also coffee. A day without coffee is a disaster for me.
+I am a software engineer, a hospital system consultant.
+Programming is my life.
+I love detail and simple things, integrity and synergy work as team, also coffee.
+A day without coffee is a disaster for me.
 
 <img align="right" alt="GIF" src="https://github.com/theycantrevealus/theycantrevealus/blob/main/coding.gif?raw=true" width="408" height="318" />
   
