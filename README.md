@@ -29,6 +29,7 @@ A day without coffee is a disaster for me.
 📊 **Daily task recently:**
 <!--START_SECTION:waka-->
 ```text
+Vuenatic
 Microservice
 Customer Service and Training
 Reading Book
