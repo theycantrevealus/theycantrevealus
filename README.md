@@ -22,7 +22,7 @@ A day without coffee is a disaster for me.
 - ⌚️ Active working on random hours. You know, I will awake if the task is not done yet;
 - 📚 Very very and very exciting to books (hard and soft of course);
 - 💬 Discuss thing **rock** make me really exciting too. Also I'm a funny guy, love to joke;
-- 📫 Ask me something or anything to: theycantrevealus@gmail.com;
+- 📫 Ask me something or anything to: hendrytanaka10@icloud.com;
 
 </br>
 
